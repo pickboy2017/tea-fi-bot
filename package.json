@@ -28,7 +28,7 @@
     "bip39": "^3.1.0",
     "ethers": "^6.13.2",
     "https-proxy-agent": "^7.0.6",
-    "moment-timezone": "^0.5.45",
+    "moment-timezone": "^0.6.0",
     "node-fetch": "^3.3.2",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7",
